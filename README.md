@@ -168,3 +168,24 @@ FROM carbon_emission
 GROUP BY country, company, carbon_footprint_pcf 
 ORDER BY country 
 ```
+## Findings
+
+- **Company Demographics**: The dataset includes companies with different carbon footprints with country-wise data.
+- **High-level Carbon Emission**: Several countries had a total carbon footprint greater than 100,000, indicating high carbon emissions.
+- **Carbon Emission Trends**: It has been observed that carbon emission keeps increasing as the years passes.
+- **Major Contributors**: The analysis identifies that the 'Automobile & components' and 'Pharmaceuticals, Biotechnology & Life Science' are the major contributors of carbon_footprint_pcf in the world.
+
+## Reports
+
+- **Carbon emission Summary**: A detailed report summarizing total carbon emission, company-wise analysis, and category performance.
+- **Trend Analysis**: Insights into increasing carbon footprint year on year.
+- **Emission Report**: Carbon emission Reports on each company's upstream, operations, and downstream activities.
+
+## Conclusion
+
+This project is a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding carbon emission patterns and the company's operations.
+
+## Author - Nikhil Dagale
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, or feedback, or would like to collaborate, feel free to get in touch!
+
