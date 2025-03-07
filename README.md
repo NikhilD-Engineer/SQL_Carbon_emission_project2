@@ -185,6 +185,17 @@ ORDER BY country
 
 This project is a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding carbon emission patterns and the company's operations.
 
+## How to Use This Project on GitHub
+
+- Clone the repository:
+git clone https://github.com/NikhilD-Engineer/SQL_Carbon_emission_project2.git
+
+- Import the dataset into PostgreSQL 17.
+
+- Run the SQL queries provided in the repository.
+
+- Modify or expand queries to explore additional insights.
+
 ## Author - Nikhil Dagale
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, or feedback, or would like to collaborate, feel free to get in touch!
